@@ -1,9 +1,9 @@
 ### Hi there, I'm [Jean!](https://jpvolponi.github.io)  👋
 
 
-- 💻 I’m currently working as microservices analyst
+- 💻 I’m currently working as microservices analyst (FIOCRUZ)
 
-- 
+- 🟠 WSO2 Plataform
 
 - 👨‍🎓 Bachelor of Computer Science 
 
